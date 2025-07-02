@@ -3,7 +3,7 @@ layout: home
 hero:
   name: Aquestry
   text: Student & Developer
-  tagline: Student in germany with a hobby for coding stuff.
+  tagline: Student in germany with a hobby for coding.
   image:
     src: /favicon.ico
     alt: Logo
